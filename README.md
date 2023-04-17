@@ -5,7 +5,8 @@
 ### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm [Ashish Kumar](https://www.linkedin.com/in/ashish-kumar-1908271ba/) !
 I’m a Frontend Developer and a Competitive Programmer. I'm currently pursuing my B.Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my [Resume](https://drive.google.com/file/d/11gUJ-NQ191VsWGfMcC_sw4ipOsmmAVvA/view?usp=share_link) for more details about my achievements. I’m currently looking for new opportunities. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-ash&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-ash" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-ash&show_icons=true&locale=en" alt="ashish-ash" /></p>
+
 <br />
 
 ## Languages and Tools:
