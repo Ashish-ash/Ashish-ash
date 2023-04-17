@@ -21,6 +21,8 @@ I’m a Frontend Developer and a Competitive Programmer. I'm currently pursuing 
 <img align="left" alt="Redux" width="40px" src="https://img.icons8.com/color/48/000000/redux.png"/>
 
 <br />
+<br />
+
 ## Get in Touch
 <a href="https://www.linkedin.com/in/ashish-kumar-1908271ba/">
   <img align="left" width="24px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
