@@ -8,7 +8,6 @@ I’m a Frontend Developer and a Competitive Programmer. I'm currently pursuing 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-ash&show_icons=true&locale=en" alt="ashish-ash" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-ash&show_icons=true&locale=en&layout=compact" alt="ashish-ash" /></p>
 <br />
-<br />
 
 ## Languages and Tools:
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
@@ -21,7 +20,6 @@ I’m a Frontend Developer and a Competitive Programmer. I'm currently pursuing 
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <img align="left" alt="Redux" width="40px" src="https://img.icons8.com/color/48/000000/redux.png"/>
 
-<br />
 <br />
 ## Get in Touch
 <a href="https://www.linkedin.com/in/ashish-kumar-1908271ba/">
