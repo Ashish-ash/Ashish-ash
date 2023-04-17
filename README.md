@@ -2,10 +2,6 @@
 I’m a Frontend Developer and a Competitive Programmer. I'm currently pursuing my B.Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my [Resume](https://drive.google.com/file/d/11gUJ-NQ191VsWGfMcC_sw4ipOsmmAVvA/view?usp=share_link) for more details about my achievements. I’m currently looking for new opportunities. 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-ash&show_icons=true&locale=en" alt="ashish-ash" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-ash&show_icons=true&locale=en&layout=compact" alt="ashish-ash" /></p>
-<br />
-
 ## Languages and Tools:
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/mongodb.png" /> 
@@ -16,7 +12,10 @@ I’m a Frontend Developer and a Competitive Programmer. I'm currently pursuing 
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" />
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <img align="left" alt="Redux" width="40px" src="https://img.icons8.com/color/48/000000/redux.png"/>
-
+<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-ash&show_icons=true&locale=en" alt="ashish-ash" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-ash&show_icons=true&locale=en&layout=compact" alt="ashish-ash" /></p>
+<br />
 <br />
 <br />
 
