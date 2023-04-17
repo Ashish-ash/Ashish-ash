@@ -6,7 +6,8 @@
 I’m a Frontend Developer and a Competitive Programmer. I'm currently pursuing my B.Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my [Resume](https://drive.google.com/file/d/11gUJ-NQ191VsWGfMcC_sw4ipOsmmAVvA/view?usp=share_link) for more details about my achievements. I’m currently looking for new opportunities. 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-ash&show_icons=true&locale=en" alt="ashish-ash" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-ash&show_icons=true&locale=en&layout=compact" alt="ashish-ash" /></p>
+<br />
 <br />
 
 ## Languages and Tools:
@@ -21,9 +22,6 @@ I’m a Frontend Developer and a Competitive Programmer. I'm currently pursuing 
 <img align="left" alt="Redux" width="40px" src="https://img.icons8.com/color/48/000000/redux.png"/>
 
 <br />
-<br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-ash&show_icons=true&locale=en&layout=compact" alt="ashish-ash" /></p>
 <br />
 ## Get in Touch
 <a href="https://www.linkedin.com/in/ashish-kumar-1908271ba/">
