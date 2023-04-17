@@ -1,6 +1,6 @@
 ### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm [Ashish Kumar](https://www.linkedin.com/in/ashish-kumar-1908271ba/) !
 I’m a Frontend Developer and a Competitive Programmer. I'm currently pursuing my B.Tech in Information Technology from USICT, GGSIPU (2019-2023). You can check my [Resume](https://drive.google.com/file/d/11gUJ-NQ191VsWGfMcC_sw4ipOsmmAVvA/view?usp=share_link) for more details about my achievements. I’m currently looking for new opportunities. 
-<img src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif' alt = "coding" align = "right" width = "400"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-ash&show_icons=true&locale=en" alt="ashish-ash" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-ash&show_icons=true&locale=en&layout=compact" alt="ashish-ash" /></p>
